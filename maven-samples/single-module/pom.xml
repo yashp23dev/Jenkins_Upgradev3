@@ -30,7 +30,7 @@
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>2.3.2</version>
+        <version>3.10.1</version>
         <configuration>
           <source>1.8</source>
           <target>1.8</target>
@@ -41,7 +41,7 @@
             <!-- Build an executable JAR -->  
             <groupId>org.apache.maven.plugins</groupId>  
             <artifactId>maven-jar-plugin</artifactId>  
-            <version>3.1.0</version>  
+            <version>3.2.2</version>  
             <configuration>  
                 <archive>  
                     <manifest>  
@@ -53,7 +53,7 @@
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
-        <version>2.2.1</version>
+        <version>3.0.0</version>
       </plugin>
 
       <plugin>
@@ -63,7 +63,7 @@
 
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
-        <version>3.0</version>
+        <version>3.12.1</version>
         <configuration>
           <reportPlugins>
             <plugin>
@@ -93,7 +93,7 @@
 
             <plugin>
               <artifactId>maven-surefire-report-plugin</artifactId>
-              <version>2.11</version>
+              <version>3.0.0-M5</version>
             </plugin>
 
             <plugin>
