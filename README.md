@@ -61,7 +61,7 @@ Detailed instructions on how to use the scripts and perform the Jenkins upgrade 
 
 ## Contributing
 
-If you want to contribute to this project, follow the guidelines outlined in the [Contributing Guide](CONTRIBUTING.md). Contributions, bug reports, and feature requests are welcome.
+If you want to contribute to this project, then follow the guidelines outlined in the [Contributing Guide](CONTRIBUTING.md). Contributions, bug reports, and feature requests are welcome.
 
 ## License
 
